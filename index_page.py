@@ -62,9 +62,6 @@ composition_multiselect = st.sidebar.multiselect('Composition Type', composition
 subjects_multiselect = st.sidebar.multiselect('Subjects', subjects_array, subjects_array, key='key_subjects_multiselect')
 theme_multiselect = st.sidebar.multiselect('Theme', theme_array, theme_array, key='key_theme_multiselect')
 
-# check state
-#st.session_state
-
 
 ##
 # Page Content
