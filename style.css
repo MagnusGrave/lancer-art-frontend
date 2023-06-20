@@ -1,23 +1,15 @@
-/*
-@import url('https://fonts.googleapis.com/css2?family=Manjari&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
 h1 * {
-    font-family: 'Manjari', sans-serif;
-    */
-/*font-weight: 500;*//*
-
-    color: #F3F3FA;
+    font-family: 'Black Ops One';
+    font-size:100px !important;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
-
-h3 * {
-    font-family: 'Inter', sans-serif;
-    font-weight: lighter;
-    color: #F3F3FA;
+h2 * {
+    font-family: 'Black Ops One';
 }
 
-.svg-container * {
+/* Example of another useful css property */
+/*.svg-container * {
     border-radius: 2%/3%;
     padding: 12px;
 }*/

@@ -1,0 +1,17 @@
+# Color Scheme 1
+# bright red emphasis - #E52F41
+# secondary darker bg - #AF0E1E
+# darkest maroon bg - #1E0404
+# Text color for red bg - #FFFFFF
+
+# Color Scheme 2
+# beige bg - #FDFFE9
+# darker beige bg - #F9F6DA
+# text color for beige bg - #1E0404
+
+[theme]
+primaryColor = '#E52F41'
+backgroundColor = '#1E0404'
+secondaryBackgroundColor = '#AF0E1E'
+textColor = '#FFFFFF'
+font='sans serif' # This only allows [‘sans serif’, ‘serif’, ‘monospace’]
