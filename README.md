@@ -1,2 +1,2 @@
 # lancer-art-frontend
- An unofficial art bible for the tabletop game called Lancer - Mech RPG.
+ An unofficial web app used to assist in playing the Lancer RPG tabletop game.
