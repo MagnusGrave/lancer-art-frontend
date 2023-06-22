@@ -68,7 +68,7 @@ with st.expander("See Background Descriptions"):
 background = st.selectbox("What is your pilot's background?", background_choices)
 
 
-#st.subheader('Skills')
+st.subheader('Skills')
 # Choose four skills
 
 
